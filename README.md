@@ -19,6 +19,12 @@ Guide to writing `.proto` files.
 
 * [Protobuf Support](https://plugins.jetbrains.com/plugin/8277-protobuf-support)
 
+## TensorFlow sample
+
+See https://www.tensorflow.org/extend/tool_developers/#protocol_buffers.  
+Some `.proto` files can be found [there](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/core/framework).
+The generated files will be in the Java package `org.tensorflow.framework`.
+
 ## References
 
 * [Protocol Buffers Basics: Java ](https://developers.google.com/protocol-buffers/docs/javatutorial)
