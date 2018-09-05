@@ -2,6 +2,15 @@
 
 This is a tutorial for Protocol Buffers with Java language.
 
+_Protocol Buffers_ is Google's data interchange format
+
+## Language Guide
+
+Guide to writing `.proto` files.
+
+* [proto2](https://developers.google.com/protocol-buffers/docs/proto)
+* [proto3](https://developers.google.com/protocol-buffers/docs/proto3)
+
 ## IDE plugins
 
 ### For IntelliJ
@@ -12,3 +21,4 @@ This is a tutorial for Protocol Buffers with Java language.
 
 * [Protocol Buffers Basics: Java ](https://developers.google.com/protocol-buffers/docs/javatutorial)
 * [Java API](https://developers.google.com/protocol-buffers/docs/reference/java/)
+* [GitHub project](https://github.com/protocolbuffers/protobuf)
