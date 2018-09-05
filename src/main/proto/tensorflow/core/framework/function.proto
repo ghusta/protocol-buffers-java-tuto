@@ -6,9 +6,9 @@ option java_outer_classname = "FunctionProtos";
 option java_multiple_files = true;
 option java_package = "org.tensorflow.framework";
 option go_package = "github.com/tensorflow/tensorflow/tensorflow/go/core/framework";
-import "src/main/proto/tensorflow/core/framework/attr_value.proto";
-import "src/main/proto/tensorflow/core/framework/node_def.proto";
-import "src/main/proto/tensorflow/core/framework/op_def.proto";
+import "attr_value.proto";
+import "node_def.proto";
+import "op_def.proto";
 
 // A library is a set of named functions.
 message FunctionDefLibrary {
