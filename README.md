@@ -1,5 +1,7 @@
 # Protocol Buffers : tutorial for Java
 
+[![Build Status](https://travis-ci.org/ghusta/protocol-buffers-java-tuto.svg?branch=master)](https://travis-ci.org/ghusta/protocol-buffers-java-tuto)
+
 This is a tutorial for Protocol Buffers with Java language.
 
 _Protocol Buffers_ is Google's data interchange format
