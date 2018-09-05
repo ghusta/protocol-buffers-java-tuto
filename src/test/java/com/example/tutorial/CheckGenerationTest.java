@@ -1,7 +1,5 @@
 package com.example.tutorial;
 
-import com.example.tutorial.AddressBookProtos.AddressBook;
-import com.example.tutorial.AddressBookProtos.Person;
 import org.junit.Test;
 
 import java.io.IOException;
